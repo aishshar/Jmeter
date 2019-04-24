@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="89" lt="89" ts="1553604870910" s="true" lb="getDetails" rc="200" rm="HTTP/1.1 200" tn="Thread Group 1-1" dt="text" by="405"/>
+<httpSample t="18" lt="18" ts="1553604871008" s="true" lb="productionTimeLossByDate" rc="200" rm="HTTP/1.1 200" tn="Thread Group 1-1" dt="text" by="463"/>
+<httpSample t="30" lt="30" ts="1553604871029" s="true" lb="financeMoneyLossByDate" rc="200" rm="HTTP/1.1 200" tn="Thread Group 1-1" dt="text" by="448"/>
+<httpSample t="34" lt="34" ts="1553604871060" s="true" lb="getDailyLossData" rc="200" rm="HTTP/1.1 200" tn="Thread Group 1-1" dt="" by="347"/>
+<httpSample t="24" lt="24" ts="1553604871094" s="true" lb="getViewData" rc="200" rm="HTTP/1.1 200" tn="Thread Group 1-1" dt="text" by="404"/>
+<httpSample t="17" lt="17" ts="1553604871118" s="true" lb="getIncidentViaStatus" rc="200" rm="HTTP/1.1 200" tn="Thread Group 1-1" dt="text" by="461"/>
+<httpSample t="25" lt="25" ts="1553604871136" s="true" lb="getIncidentViaImpact" rc="200" rm="HTTP/1.1 200" tn="Thread Group 1-1" dt="text" by="498"/>
+
+<httpSample t="29" lt="29" ts="1553604895848" s="true" lb="getDetails" rc="200" rm="HTTP/1.1 200" tn="Thread Group 1-1" dt="text" by="405"/>
+<httpSample t="7" lt="7" ts="1553604895887" s="true" lb="productionTimeLossByDate" rc="200" rm="HTTP/1.1 200" tn="Thread Group 1-1" dt="text" by="463"/>
+<httpSample t="5" lt="5" ts="1553604895895" s="true" lb="financeMoneyLossByDate" rc="200" rm="HTTP/1.1 200" tn="Thread Group 1-1" dt="text" by="448"/>
+<httpSample t="5" lt="5" ts="1553604895901" s="true" lb="getDailyLossData" rc="200" rm="HTTP/1.1 200" tn="Thread Group 1-1" dt="" by="347"/>
+<httpSample t="5" lt="5" ts="1553604895907" s="true" lb="getViewData" rc="200" rm="HTTP/1.1 200" tn="Thread Group 1-1" dt="text" by="404"/>
+<httpSample t="7" lt="7" ts="1553604895913" s="true" lb="getIncidentViaStatus" rc="200" rm="HTTP/1.1 200" tn="Thread Group 1-1" dt="text" by="461"/>
+<httpSample t="6" lt="6" ts="1553604895920" s="true" lb="getIncidentViaImpact" rc="200" rm="HTTP/1.1 200" tn="Thread Group 1-1" dt="text" by="498"/>
+
+</testResults>
